@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>
-Paragraph tag
+Paragraph tags
 </title>
 </head>
 <body>
@@ -13,3 +13,4 @@ Paragraph tag
 </body>
 
 </html>
+
