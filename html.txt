@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>
+Paragraph tag
+</title>
+</head>
+<body>
+<h1>Paragraph</h1>
+<p>This is a paragraph.<br> Adding a line break for demonstration.
+</p>
+<br>
+<p> This is a another paragraph.<br> Hers's another line break within this paragraph.</p>
+</body>
+</html>
