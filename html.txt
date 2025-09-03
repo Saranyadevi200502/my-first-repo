@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>
-Paragraph tag
+Paragraph tags
 </title>
 </head>
 <body>
@@ -11,4 +11,7 @@ Paragraph tag
 <br>
 <p> This is a another paragraph.<br> Hers's another line break within this paragraph.</p>
 </body>
+
 </html>
+
+
